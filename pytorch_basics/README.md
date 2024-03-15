@@ -1,1 +1,1 @@
-All code in this directory is from [Brad Heintz's Introduction to PyTorch](https://pytorch.org/tutorials/beginner/introyt/introyt1_tutorial.html).
+All code in this directory is from [Brad Heintz's Introduction to PyTorch](https://pytorch.org/tutorials/beginner/introyt/introyt1_tutorial.html) or heavily inspired by it.
